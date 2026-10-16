@@ -1,0 +1,1 @@
+int wave_solve(Grid state, float tmax);
